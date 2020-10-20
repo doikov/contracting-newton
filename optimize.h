@@ -1,4 +1,3 @@
-
 #ifndef OPTIMIZE_H_
 #define OPTIMIZE_H_
 
