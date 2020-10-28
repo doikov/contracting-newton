@@ -1,5 +1,5 @@
 # contracting-newton
-Implementation of Contracting Newton method for minimizing Logistic Regression model.
+Implementation of Contracting Newton method for minimizing logistic regression model.
 
 To plot the graphs from the paper 
 "Convex optimization based on global lower second-order models" 
